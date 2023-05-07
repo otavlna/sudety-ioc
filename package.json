@@ -1,0 +1,11 @@
+{
+  "name": "sudety-ioc",
+  "version": "1.0.0",
+  "description": "A very simple IoC container",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ota Vlna",
+  "license": "MIT"
+}
